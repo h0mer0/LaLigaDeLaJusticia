@@ -7,6 +7,7 @@
 |  3 |                             Politica primero suben, seria suben-se llena-bajan-suben?                            |  &#x1F534;   |     -     |
 |  4 | Hace falta esperar que todos los que quieran bajar en una determinada estacion, bajen para que arranque el tren? |   &#x1F535;   |     No hace falta que bajen todos, el tren puede partir despues de X tiempo y los que no se bajaron se joden     |
 |  5 | Cual de las 2 redes usar? Con condiciones de partida del tren (10/10) o sin?                              |  &#x1F534;  |    -   |      |
+|  6 | Poner limites en PIPE? Porque no anda PIPE? Poner buffers para limitar?                                   |  &#x1F534;  |    -   |      |
 
 
 ## Referencia ##
